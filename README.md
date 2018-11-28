@@ -1,16 +1,6 @@
-# Pixel Art Maker Project
+This task is a part of Google/Udacity Scholarship for the Front-End Web Developer track.
+Pixel Art Master allows creating drawings with pixels (table cells). The prototype was developed using HTML 5, CSS 3, Bootstrap 3 and JavaScript.
 
-## Table of Contents
+![Screenshot](https://github.com/olgaloboda/FrontEnd-Web-Development-Google-Udacity/blob/master/PixelScreenshot.png)
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
-
-## Instructions
-
-To get started, open `designs.js` and start building out the app's functionality.
-
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+## Available at https://olgaloboda.github.io/FrontEnd-Web-Development-Google-Udacity/
